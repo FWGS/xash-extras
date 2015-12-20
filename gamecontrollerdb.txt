@@ -1,1 +1,0 @@
-67616d656b6579626f61726400000000,GameKeyboard,platform:Android,a:b0,b:b1,x:b2,y:b3,start:b6,leftstick:b7,rightstick:b8,leftshoulder:b9,rightshoulder:b10,dpup:b11,dpdown:b12,dpleft:b13,dpright:b14,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:a4,righttrigger:a5
