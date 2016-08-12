@@ -1,7 +1,5 @@
-http://fastdlcstrike.lan-servers.com/halflife/
 http://files.anitalink.com/gamecache/hl/valve/
 http://files2.hldm.org/hl/
-http://downloads.plaguesratrace.org/
 http://dnfw.org/hl/
 http://www.leveldesign.com.br/labs/sv/hl
 http://soa.site.nfoservers.com/server/
