@@ -1,4 +1,3 @@
-http://files.anitalink.com/gamecache/hl/valve/
 http://files2.hldm.org/hl/
 http://dnfw.org/hl/
 http://www.leveldesign.com.br/labs/sv/hl
