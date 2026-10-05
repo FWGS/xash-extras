@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="128" height="128">
+<circle cx="50" cy="50" r="46.75" fill="#141414" fill-opacity="0.49" stroke="white" stroke-opacity="0.59" stroke-width="2.5"/>
+<polyline points="68,50 77,50" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="62.7279,62.7279 69.0919,69.0919" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="50,68 50,77" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="37.2721,62.7279 30.9081,69.0919" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="32,50 23,50" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="37.2721,37.2721 30.9081,30.9081" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="50,32 50,23" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="62.7279,37.2721 69.0919,30.9081" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="50" cy="50" r="19" fill="none" stroke="white" stroke-width="5"/>
+<circle cx="50" cy="50" r="7" fill="none" stroke="white" stroke-width="4"/>
+</svg>
