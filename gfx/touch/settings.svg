@@ -1,13 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="128" height="128">
-<circle cx="50" cy="50" r="46.75" fill="#141414" fill-opacity="0.49" stroke="white" stroke-opacity="0.59" stroke-width="2.5"/>
-<polyline points="68,50 77,50" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="62.7279,62.7279 69.0919,69.0919" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="50,68 50,77" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="37.2721,62.7279 30.9081,69.0919" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="32,50 23,50" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="37.2721,37.2721 30.9081,30.9081" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="50,32 50,23" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="62.7279,37.2721 69.0919,30.9081" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="50" cy="50" r="19" fill="none" stroke="white" stroke-width="5"/>
-<circle cx="50" cy="50" r="7" fill="none" stroke="white" stroke-width="4"/>
+<circle cx="50" cy="50" r="46.75" fill="#141414" fill-opacity="0.49" stroke="#fff" stroke-opacity="0.59" stroke-width="2.5"/>
+<g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M44.88 33.26L46.25 26.3A24 24 0 0 1 53.75 26.3L55.12 33.26A17.5 17.5 0 0 1 58.22 34.55L64.11 30.58A24 24 0 0 1 69.42 35.89L65.45 41.78A17.5 17.5 0 0 1 66.74 44.88L73.7 46.25A24 24 0 0 1 73.7 53.75L66.74 55.12A17.5 17.5 0 0 1 65.45 58.22L69.42 64.11A24 24 0 0 1 64.11 69.42L58.22 65.45A17.5 17.5 0 0 1 55.12 66.74L53.75 73.7A24 24 0 0 1 46.25 73.7L44.88 66.74A17.5 17.5 0 0 1 41.78 65.45L35.89 69.42A24 24 0 0 1 30.58 64.11L34.55 58.22A17.5 17.5 0 0 1 33.26 55.12L26.3 53.75A24 24 0 0 1 26.3 46.25L33.26 44.88A17.5 17.5 0 0 1 34.55 41.78L30.58 35.89A24 24 0 0 1 35.89 30.58L41.78 34.55A17.5 17.5 0 0 1 44.88 33.26Z"/>
+<circle cx="50" cy="50" r="7"/>
+</g>
 </svg>

@@ -1,8 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="128" height="128">
-<circle cx="50" cy="50" r="46.75" fill="#141414" fill-opacity="0.49" stroke="white" stroke-opacity="0.59" stroke-width="2.5"/>
-<polyline points="38,39 62,39 62,73 38,73 38,39" fill="none" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="44,39 44,29 57,29 57,39" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<polyline points="66,29 76,29" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="76" cy="22" r="2" fill="white"/>
-<circle cx="77" cy="36" r="2" fill="white"/>
+<circle cx="50" cy="50" r="46.75" fill="#141414" fill-opacity="0.49" stroke="#fff" stroke-opacity="0.59" stroke-width="2.5"/>
+<g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="32" y="44" width="20" height="30" rx="4"/>
+<path d="M37 44v-7h10v7M42 37v-6h5"/>
+<circle cx="57" cy="31" r="2.5" fill="#fff" stroke="none"/>
+<circle cx="63" cy="25" r="2.5" fill="#fff" stroke="none"/>
+<circle cx="64" cy="36" r="2.5" fill="#fff" stroke="none"/>
+<circle cx="70" cy="20" r="2.5" fill="#fff" stroke="none"/>
+<circle cx="71" cy="31" r="2.5" fill="#fff" stroke="none"/>
+<circle cx="71" cy="42" r="2.5" fill="#fff" stroke="none"/>
+</g>
 </svg>
